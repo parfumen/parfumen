@@ -5,9 +5,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://unknown-brown-fhg3dhckwp.edgeone.app/48%20sin%20título_20260429141218.png"  />
+  <img height="340" src="https://unknown-brown-fhg3dhckwp.edgeone.app/48%20sin%20título_20260429141218.png"  />
 </div>
 
+###
 ###
 
 ###
