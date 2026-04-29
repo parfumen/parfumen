@@ -5,8 +5,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://select-ivory-od5kn21bit.edgeone.app/IMG_6527.png"  />
+  <img height="200" src="https://unknown-brown-fhg3dhckwp.edgeone.app/48%20sin%20título_20260429141218.png"  />
 </div>
+
+###
 
 ###
 <div align="center">
