@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tasteless-apricot-om12bezmqg.edgeone.app/IMG_6559.png"  />
+  <img height="340" src="https://tasteless-apricot-om12bezmqg.edgeone.app/IMG_6559.png"  />
 </div>
 
 ###
