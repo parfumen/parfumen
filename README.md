@@ -3,6 +3,6 @@
 </div>
 
 <div align="center">
-  <img height="860" src="https://img.sanishtech.com/u/7d2b0eb6e70495e631cc167965fff92f.png"  />
+  <img height="800" src="https://img.sanishtech.com/u/7d2b0eb6e70495e631cc167965fff92f.png"  />
 </div>
 
