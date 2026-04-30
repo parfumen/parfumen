@@ -1,8 +1,3 @@
 <div align="center">
-  <img height="850" src="https://img.sanishtech.com/u/261660f569e454f4353eb68a2f5d70f8.png"  />
+  <img height="860" src="https://img.sanishtech.com/u/4faf074d557c18e54d6c9fdbb35da75a.png"  />
 </div>
-
-<div align="center">
-  <img height="800" src="https://img.sanishtech.com/u/7d2b0eb6e70495e631cc167965fff92f.png"  />
-</div>
-
