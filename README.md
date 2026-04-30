@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img height="350" src="https://img.sanishtech.com/u/fb69f40eba0715a23709d119d18a46ee.png"  />
+  <img height="500" src="https://img.sanishtech.com/u/fb69f40eba0715a23709d119d18a46ee.png"  />
 </div>
 
 
