@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://img.sanishtech.com/u/e38dd9a8e932df579c82f514646599e1.gif"  />
+  <img height="500" src="https://img.sanishtech.com/u/e38dd9a8e932df579c82f514646599e1.gif"  />
 </div>
 
 ###
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://img.sanishtech.com/u/e38dd9a8e932df579c82f514646599e1.gif"  />
+  <img height="500" src="https://img.sanishtech.com/u/e38dd9a8e932df579c82f514646599e1.gif"  />
 </div>
 
 ###
